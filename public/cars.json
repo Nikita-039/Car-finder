@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "price": 12000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "https://cdn.pixabay.com/photo/2012/05/29/00/43/toyota-49278_1280.jpg"
+  },
+  {
+    "id": "2",
+    "brand": "Honda",
+    "model": "Civic",
+    "price": 15000,
+    "fuelType": "Diesel",
+    "seating": 5,
+    "image": "/images/cars/civic.jpg"
+  },
+  {
+    "id": "3",
+    "brand": "Ford",
+    "model": "Focus",
+    "price": 11000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "/images/cars/fordfocus.jpg"
+  },
+  {
+    "id": "4",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "price": 13500,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "/images/cars/hyundaielantra.jpg"
+  },
+  {
+    "id": "5",
+    "brand": "Volkswagen",
+    "model": "Jetta",
+    "price": 14000,
+    "fuelType": "Diesel",
+    "seating": 5,
+    "image": "/images/cars/volkswagenjetta.jpg"
+  },
+  {
+    "id": "6",
+    "brand": "Kia",
+    "model": "Seltos",
+    "price": 16000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image":"/images/cars/kiaseltos.jpg"
+  },
+  {
+    "id": "7",
+    "brand": "Maruti",
+    "model": "Baleno",
+    "price": 8000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "/images/cars/marutibaleno.jpg"
+  },
+  {
+    "id": "8",
+    "brand": "Renault",
+    "model": "Kwid",
+    "price": 7000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "/images/cars/renaultkwid.jpg"
+  },
+  {
+    "id": "9",
+    "brand": "Tata",
+    "model": "Nexon",
+    "price": 13000,
+    "fuelType": "Diesel",
+    "seating": 5,
+    "image": "/images/cars/tatanexon.jpg"
+  },
+  {
+    "id": "10",
+    "brand": "Mahindra",
+    "model": "XUV300",
+    "price": 14500,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image":"/images/cars/mahindrXUV300.jpg"
+  },
+  {
+    "id": "11",
+    "brand": "Toyota",
+    "model": "Innova",
+    "price": 20000,
+    "fuelType": "Diesel",
+    "seating": 7,
+    "image": "/images/cars/toyotainnova.jpg"
+  },
+  {
+    "id": "12",
+    "brand": "Honda",
+    "model": "City",
+    "price": 17000,
+    "fuelType": "Petrol",
+    "seating": 5,
+    "image": "/images/cars/hondacity.jpg"
+  }
+]
