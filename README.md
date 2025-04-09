@@ -11,3 +11,4 @@ Add cars to a wishlist (stored in LocalStorage).
 View detailed information for each car.
 
 Navigate through paginated results.
+The live version of the project is deployed and accessible at https://car-finder-theta.vercel.app/
